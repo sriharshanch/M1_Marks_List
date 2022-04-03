@@ -10,3 +10,6 @@
 
 
 [![Analysis](https://github.com/sriharshanch/M1_calendar/actions/workflows/Analysis.yml/badge.svg)](https://github.com/sriharshanch/M1_calendar/actions/workflows/Analysis.yml)
+
+
+[![Bulid CI - windows](https://github.com/sriharshanch/M1_calendar/actions/workflows/windows.yml/badge.svg)](https://github.com/sriharshanch/M1_calendar/actions/workflows/windows.yml)
