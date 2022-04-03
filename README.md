@@ -7,3 +7,6 @@
 
 
 [![Code Quality - Cppcheck](https://github.com/sriharshanch/M1_calendar/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sriharshanch/M1_calendar/actions/workflows/c-cpp.yml)
+
+
+[![Analysis](https://github.com/sriharshanch/M1_calendar/actions/workflows/Analysis.yml/badge.svg)](https://github.com/sriharshanch/M1_calendar/actions/workflows/Analysis.yml)
