@@ -13,3 +13,6 @@
 
 
 [![Bulid CI - windows](https://github.com/sriharshanch/M1_calendar/actions/workflows/windows.yml/badge.svg)](https://github.com/sriharshanch/M1_calendar/actions/workflows/windows.yml)
+
+
+[![Build_CI - Linux](https://github.com/sriharshanch/M1_calendar/actions/workflows/linux.yml/badge.svg)](https://github.com/sriharshanch/M1_calendar/actions/workflows/linux.yml)
